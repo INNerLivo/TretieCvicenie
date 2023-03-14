@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TretieCvicenie</string>
+    <string name="pocet">pocet</string>
+    <string name="roll">ROLL</string>
 </resources>
